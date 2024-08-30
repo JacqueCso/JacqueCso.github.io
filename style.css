@@ -1,0 +1,81 @@
+
+body, html{
+    font-family: "Poppins", sans-serif;
+
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+}
+
+.menu-icon {
+    background-color: transparent; /* Asegura que el fondo sea transparente */
+}
+
+
+.home{
+    padding-top: 3em;
+    display: flex;
+    vertical-align: middle;
+}
+
+span{
+    background-color: rgb(255, 207, 131);
+}
+
+.first-line p{
+    text-align: justify;
+}
+
+.logo{
+    width: 38px;
+}
+
+.second-line img{
+    width: 250px;
+    max-width: 100%;
+}
+
+.icons{
+    font-size: 35px;
+    color: #43597d;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    font-size: 19px;
+}
+
+.section-padding, .f-academica{
+    padding: 100px 0;
+}
+
+.section-padding img{
+    width: 230px;
+}
+
+.logofca img{
+    width: 200px;
+    padding-bottom: 3rem;
+}
+
+.f-academica-fca{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.f-complementaria{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.f-complementaria img{
+    margin-top: 1.5rem;
+    max-width: 250px;
+}
+
